@@ -1,5 +1,5 @@
 body {
-  font-family: 'Montserrat';
+  font-family: 'inter';
 }
 
 .navbar {
@@ -40,13 +40,13 @@ body {
 
 .features h3, .designer h3, .similar-product h3, .cart-header h3, .checkout-modal-success h3 {
   font-family: 'Lora';
-  color: #1B2690;
+  color: #221E2D;
   font-weight: bold;
 }
 
 .features p, .designer p, footer p, .similar-product p, .cart-header p, .checkout-modal-success p {
   font-weight: 200;
-  color: #B7B7B7;
+  color: #5A555C;
 }
 
 .figure h5 {
@@ -144,7 +144,7 @@ body {
 .product-description .tab-content p {
   font-size: 16px;
   font-weight: 200;
-  color: #868686;
+  color: #5A555C;
   line-height: 28px;
 }
 
